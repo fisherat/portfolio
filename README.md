@@ -14,10 +14,12 @@ G.S. Merit Diploma - Leland High School (2018-2022)
 Research Assistant @ Whitman College - Computational Inorg. Biochemistry
 - Undergraduate thesis & poster for ACS Spr. '26
 - Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes
+<img src="https://github.com/user-attachments/assets/e11aaeb5-3430-4354-91c2-67a0d5e864b4" width = 50%>
 
 Research Assistant @ San Diego St. University - Bacterial Metabolomics
 - Poster for U.S. Department of Energy
 - Life Under Extremes: Melanin-Mediated Adaptations and Interactions in Arid Soil Microbial Communities
+<img src="https://github.com/user-attachments/assets/e7270085-b047-4714-bfb1-202a2b864897" width = 50%> 
 
 Research Assistant @ Whitman College - Physical Organic Chemistry
 - Summer research continued in Physical Chemistry Laboratory 
