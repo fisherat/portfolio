@@ -2,7 +2,7 @@
 
 fishera@whitman.edu | +1(408)693-1750
 
-Find me on [LinkedIn](https://www.linkedin.com/in/fisherat/)
+Find my work and I on [LinkedIn](https://www.linkedin.com/in/fisherat/)
 or [Handshake](https://app.joinhandshake.com/profiles/fisherat)
 
 
