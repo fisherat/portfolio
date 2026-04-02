@@ -5,7 +5,7 @@ Chemistry & Data Science | Whitman College '26
 ### Education
 Chemistry, BA - Whitman College (2022-2026)
 
-G.S. Merit Diploma - Leland High School (2018-2022)
+CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 ### Recent Work Experience
 
