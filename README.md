@@ -11,10 +11,20 @@ Chemistry, BA - Whitman College (2022-2026)
 
 CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
+### Ongoing Coursework & Extracurricular Work Experience
+
+CS-215 - Data Science
+- Chem Libretext Cluster Analysis of Bookshelves - Analysis of inequity in advanced opensource chemical textbooks
+- Artemis II launch payload and positions compared to classical rocket equations & extra-orbital trajectories
+- Political spectrum heatmap & analysis of political opinions on the Israel/Palestine conflict
+
+CHEM-490 - Chemistry Senior Thesis
+- Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes
+
 ### Recent Work Experience
 
 Research Assistant @ Whitman College - Computational Inorg. Biochemistry
-- Thesis: Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes
+- Metal-Dependent Structural Comparisons of Acireductone Dioxygenases: A Computational Study
 
   ![Poster for ACS Spr. '26](/assets/graphics/ACS.jpeg)
 
