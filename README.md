@@ -2,6 +2,11 @@
 
 Chemistry & Data Science | Whitman College '26
 
+fishera@whitman.edu | +1(408)693-1750
+
+Find me on [LinkedIn](https://www.linkedin.com/in/fisherat/)
+or [Handshake](https://app.joinhandshake.com/profiles/fisherat)
+
 ### Education
 Chemistry, BA - Whitman College (2022-2026)
 
