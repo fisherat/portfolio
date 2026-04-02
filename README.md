@@ -12,24 +12,19 @@ G.S. Merit Diploma - Leland High School (2018-2022)
 
 Research Assistant @ Whitman College - Computational Inorg. Biochemistry
 - Undergraduate thesis & poster for ACS Spr. '26
-
 - Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes
 
 Research Assistant @ San Diego St. University - Bacterial Metabolomics
 - Poster for U.S. Department of Energy
-  
-- Life Under Extremes: Melanin-Mediated Adaptations and Interactions in Arid Soil Microbial Communities.
+- Life Under Extremes: Melanin-Mediated Adaptations and Interactions in Arid Soil Microbial Communities
 
 Research Assistant @ Whitman College - Physical Organic Chemistry
 - Summer research continued in Physical Chemistry Laboratory 
-  
 - Accessible Solvent Effects on Spontaneous Diphenylalanine (FF/Phe-Phe) Nanostructure Formation for Undergraduates
 
 ### Standing Certifications
 - Biosafety/Biosecurity - Biohazard Safety
-
 - Laboratory Chemical Safety
-
 - Biosafety/Biosecurity - Recombinant DNA
 
 ### Organizations
@@ -46,5 +41,4 @@ Phi Delta Theta
 
 ### Interests
 - Learning something new everyday.
-
 - Research or industry positions interested in improving the world around us. 
