@@ -1,7 +1,7 @@
 # Andrew Fisher
 Chemistry & Data Science | Whitman College '26
 
-Find me on LinkedIn @ https://www.linkedin.com/in/fisherat/
+Find me on LinkedIn @ <https://www.linkedin.com/in/fisherat/>
 
 ### Education
 Chemistry, BA - Whitman College (2022-2026)
