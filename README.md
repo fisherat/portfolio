@@ -1,4 +1,4 @@
-# Andrew Fisher
+# Creative Solutions in Chemistry
 
 fishera@whitman.edu | +1(408)693-1750
 
