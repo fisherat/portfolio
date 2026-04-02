@@ -17,11 +17,13 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 Research Assistant @ Whitman College - Computational Inorg. Biochemistry
 - Thesis: Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes
-- ![Poster for ACS Spr. '26](/assets/graphics/ACS.jpeg)
+
+  ![Poster for ACS Spr. '26](/assets/graphics/ACS.jpeg)
 
 Research Assistant @ San Diego St. University - Bacterial Metabolomics
 - Life Under Extremes: Melanin-Mediated Adaptations and Interactions in Arid Soil Microbial Communities
-- ![Poster for the Department of Energy](/assets/graphics/DOE.jpeg)
+
+  <img src="https://github.com/fisherat/portfolio/blob/main/assets/graphics/DOE.jpeg" "width" = 50%>
 
 Research Assistant @ Whitman College - Physical Organic Chemistry
 - Summer research continued in Physical Chemistry Laboratory 
