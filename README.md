@@ -1,11 +1,9 @@
 # Andrew Fisher
 
-Chemistry & Data Science | Whitman College '26
+fishera@whitman.edu | +1(408)693-1750
 
 Find me on [LinkedIn](https://www.linkedin.com/in/fisherat/)
 or [Handshake](https://app.joinhandshake.com/profiles/fisherat)
-
-Direct inquiries to fishera@whitman.edu
 
 
 ### Education
@@ -23,7 +21,7 @@ Research Assistant @ Whitman College - Computational Inorg. Biochemistry
 Research Assistant @ San Diego St. University - Bacterial Metabolomics
 - Life Under Extremes: Melanin-Mediated Adaptations and Interactions in Arid Soil Microbial Communities
 
-  <img src="https://github.com/fisherat/portfolio/blob/main/assets/graphics/DOE.jpeg" "width" = 50%>
+  ![Poster for DOE](/assets/graphics/DOE.jpeg)
 
 Research Assistant @ Whitman College - Physical Organic Chemistry
 - Summer research continued in Physical Chemistry Laboratory 
