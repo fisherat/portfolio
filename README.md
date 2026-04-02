@@ -35,7 +35,7 @@ Research Assistant @ San Diego St. University - Bacterial Metabolomics
 
 Research Assistant @ Whitman College - Physical Organic Chemistry
 - Summer research continued in Physical Chemistry Laboratory 
-- Accessible Solvent Effects on Spontaneous Diphenylalanine (FF/Phe-Phe) Nanostructure Formation for Undergraduates
+- Accessible Solvent Effects on Spontaneous Diphenylalanine Nanostructure Formation for Undergraduates
 
 ### Standing Certifications
 - Biosafety/Biosecurity - Biohazard Safety
