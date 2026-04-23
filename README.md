@@ -14,9 +14,17 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 ### Ongoing Coursework & Extracurricular Work Experience
 
 CS-215 - Data Science
-- Chem Libretext Cluster Analysis of Bookshelves - Analysis of inequity in advanced opensource chemical textbooks
-- Artemis II launch payload and positions compared to classical rocket equations & extra-orbital trajectories
-- Political spectrum heatmap & analysis of political opinions on the Israel/Palestine conflict
+- Chem Libretext Cluster Analysis of Bookshelves, an Analysis of inequity in advanced opensource chemical textbooks - Solo project
+> Webscraping the opensource textbooks available on Chem Libretext
+> 
+> Examining differences in word count, graphical representation, readibility & showing how they compare between specialties
+> 
+> Q: Is there a distinct difference in the availability of information between the subcategories of Chemistry?
+> 
+> Q: Which specialties are underrepresented in online forums of information?
+> 
+> Q: How can we go about improving the availability of information for all interested in higher chemical education?
+> 
 
 CHEM-490 - Chemistry Senior Thesis
 - Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes
