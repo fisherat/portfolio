@@ -15,9 +15,10 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 CS-215 - Data Science - Project Update Wk12
 - Chem Libretext Cluster Analysis of Bookshelves, an Analysis of inequity in advanced opensource chemical textbooks - Solo project 
-> Wk12
+<script src="https://embed.github.com/view/3d/<username>/<repo>/<ref>/</assets/graphics/libretexts_clusters.html>"></script>
+
+
 >
-> ![Preliminary Investigations of Word count & Figure Count on mean ACS exam score](/assets/graphics/libretexts_clusters.html)
 >
 > Wk11 - https://colab.research.google.com/drive/15WmrCllgff-Os6GJZz9t1raO7EmRRN27?usp=sharing :
 >
