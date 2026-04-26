@@ -16,7 +16,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 CS-215 - Data Science - Project Update Wk12
 - Chem Libretext Cluster Analysis of Bookshelves, an Analysis of inequity in advanced opensource chemical textbooks - Solo project
   
-![Preliminary 3D Cluster Analysis of Word & Figure Counts vs published mean ACS Exam scores](/assets/graphics/libretexts_clusters.html)
+[Preliminary 3D Cluster Analysis of Word & Figure Counts vs published mean ACS Exam scores](/assets/graphics/libretexts_clusters.html)
 
 > Wk12 - Initial analysis reveals a strong correlation between Fail/Drop rate (useful as a metric of difficulty) and Libretext unit/chapter ratio for each specialty, analysis of different specialties leaves much work to be done, as well as figuring out how to describe Biochemistry and Environmental chemistry within the same guidelines as their workflows remain largely different. More in-depth analysis is required to make sense of the currently confusing cluster system
 >
