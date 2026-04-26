@@ -13,8 +13,12 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 ### Ongoing Coursework & Extracurricular Work Experience
 
-CS-215 - Data Science - Project Update Wk11
-- Chem Libretext Cluster Analysis of Bookshelves, an Analysis of inequity in advanced opensource chemical textbooks - Solo project https://colab.research.google.com/drive/15WmrCllgff-Os6GJZz9t1raO7EmRRN27?usp=sharing
+CS-215 - Data Science - Project Update Wk12
+- Chem Libretext Cluster Analysis of Bookshelves, an Analysis of inequity in advanced opensource chemical textbooks - Solo project 
+> Wk12 - 
+>
+> Wk11 - https://colab.research.google.com/drive/15WmrCllgff-Os6GJZz9t1raO7EmRRN27?usp=sharing :
+>
 > Webscraping the opensource textbooks available on Chem Libretext was successful using Beautiful Soup and further automated via python, possible expansion to transcribing online video textbooks?
 >
 > Datasets are useful for very superficial analysis of wordcount and figure counts, they do not account for succinctness/quality of explanations or differences in HTML syntax between different specialties/chapters/units.
@@ -22,7 +26,8 @@ CS-215 - Data Science - Project Update Wk11
 > Most of what I've learned so far is how to automate webscraping via python and nesting loops in order to expand dataframes to better organize the chapters.
 >
 > The greatest challege I forsee is Google Colab struggling to handle iterating through such large datasets, perhaps I could optimize this workflow using some other language? Remains to be seen if it's problematic.
-> 
+>
+> Wk10:
 > Q: Is there a distinct difference in the availability of information between the subcategories of Chemistry?
 > 
 > Q: Which specialties are underrepresented in online forums of information?
