@@ -18,8 +18,7 @@ CS-215 - Data Science - Project Update Wk12
   
 ![Preliminary 3D Cluster Analysis of Word & Figure Counts vs published mean ACS Exam scores](/assets/graphics/libretexts_clusters.html)
 
-
->
+> Wk12 - Initial analysis reveals a strong correlation between Fail/Drop rate (useful as a metric of difficulty) and Libretext unit/chapter ratio for each specialty, analysis of different specialties leaves much work to be done, as well as figuring out how to describe Biochemistry and Environmental chemistry within the same guidelines as their workflows remain largely different. More in-depth analysis is required to make sense of the currently confusing cluster system
 >
 > Wk11 - https://colab.research.google.com/drive/15WmrCllgff-Os6GJZz9t1raO7EmRRN27?usp=sharing :
 >
