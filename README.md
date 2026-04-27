@@ -13,7 +13,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 ### Ongoing Coursework & Extracurricular Work Experience
 
-**CS-215 - Data Science - **
+**CS-215 - Data Science -**
 - Modeling of Professor's location data using Plotly - Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall, hypothesis failed
   
   ![Pieplot of location data within & withut 3km of Whitman College's Olin Hall - @46.0728341,-118.3290384, distance(s) calculated w/ Haversine](/pieplot4_27.png)
@@ -24,10 +24,16 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
         frameborder="0">
 </iframe>
 
+
 **CS-215 - Data Science -** Project Update Wk12
 - Chem Libretext Cluster Analysis of Bookshelves, an Analysis of inequity in advanced opensource chemical textbooks - Solo project
   
-[Preliminary 3D Cluster Analysis of Word & Figure Counts vs published mean ACS Exam scores](/assets/graphics/libretexts_clusters.html)
+<iframe src="https://fisherat.github.io/portfolio/libretexts_clusters.html" 
+        width="100%" 
+        height="500px" 
+        frameborder="0">
+</iframe>
+
 
 > Wk12 - Initial analysis reveals a strong correlation between Fail/Drop rate (useful as a metric of difficulty) and Libretext unit/chapter ratio for each specialty, analysis of different specialties leaves much work to be done, as well as figuring out how to describe Biochemistry and Environmental chemistry within the same guidelines as their workflows remain largely different. More in-depth analysis is required to make sense of the currently confusing cluster system
 >
