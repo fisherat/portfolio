@@ -13,18 +13,9 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 ### Ongoing Coursework & Extracurricular Work Experience
 
-**CS-215 - Data Science -** Modeling of 2021 Wildfire Incident Locations via JavaScript
+**CS-215 - Data Science -** Modeling of 2021 Wildfire Incident Locations via Observable, in js
 
-<iframe width="100%" height="116.078125" frameborder="0"
-  src=["https://observablehq.com/embed/5a8f913d84b69323@1853?cells=viewof+minSize"](https://observablehq.com/d/5a8f913d84b69323#minSize)>
-  </iframe>
-https://observablehq.com/d/5a8f913d84b69323#cell-1833
-<iframe src="[https://fisherat.github.io/portfolio/assets/graphics/Wildfire_Loc_Map_Inter.svg](https://observablehq.com/d/5a8f913d84b69323#cell-1833)" 
-  width="100%"
-  height="500px" 
-  title="2021 Wildfire Incident Locations & Reported Causes" 
-  frameborder="0">
-</iframe>
+[Interactive Map](https://github.com/fisherat/portfolio/assets/graphics/index.html)
 
 **CS-215 - Data Science -** Modeling of Professor's location data using Plotly - Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall, hypothesis failed
   
