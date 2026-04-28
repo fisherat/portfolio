@@ -26,6 +26,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
         frameborder="0">
 </iframe>
 
+
   ![Pieplot of location data within & without 3km of Whitman College's Olin Hall - @46.0728341,-118.3290384, distance(s) calculated w/ Haversine](assets/graphics/pieplot4_27.png)
 
 **CS-215 - Data Science -** Project Update Wk12
@@ -37,19 +38,17 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
         frameborder="0">
 </iframe>
 
+
 > Wk12 - Initial analysis reveals a strong correlation between Fail/Drop rate (useful as a metric of difficulty) and Libretext unit/chapter ratio for each specialty, analysis of different specialties leaves much work to be done, as well as figuring out how to describe Biochemistry and Environmental chemistry within the same guidelines as their workflows remain largely different. More in-depth analysis is required to make sense of the currently confusing cluster system
 >
-> Wk11 - https://colab.research.google.com/drive/15WmrCllgff-Os6GJZz9t1raO7EmRRN27?usp=sharing :
->
-> Webscraping the opensource textbooks available on Chem Libretext was successful using Beautiful Soup and further automated via python, possible expansion to transcribing online video textbooks?
->
-> Datasets are useful for very superficial analysis of wordcount and figure counts, they do not account for succinctness/quality of explanations or differences in HTML syntax between different specialties/chapters/units.
->
+> [Wk11 -](https://colab.research.google.com/drive/15WmrCllgff-Os6GJZz9t1raO7EmRRN27?usp=sharing)
+>Webscraping the opensource textbooks available on Chem Libretext was successful using Beautiful Soup and further automated via python, possible expansion to transcribing online video textbooks?
+>Datasets are useful for very superficial analysis of wordcount and figure counts, they do not account for succinctness/quality of explanations or differences in HTML syntax between different specialties/chapters/units.
 > Most of what I've learned so far is how to automate webscraping via python and nesting loops in order to expand dataframes to better organize the chapters.
+>The greatest challege I forsee is Google Colab struggling to handle iterating through such large datasets, perhaps I could optimize this workflow using some other language? Remains to be seen if it's problematic.
 >
-> The greatest challege I forsee is Google Colab struggling to handle iterating through such large datasets, perhaps I could optimize this workflow using some other language? Remains to be seen if it's problematic.
->
-> Wk10:
+> Wk10: Project Goals
+> 
 > Q: Is there a distinct difference in the availability of information between the subcategories of Chemistry?
 > 
 > Q: Which specialties are underrepresented in online forums of information?
