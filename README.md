@@ -21,6 +21,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
         frameborder="0">
 </iframe>
 
+
 **CS-215 - Data Science -** Modeling of Professor's location data using Plotly - Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall, hypothesis failed
   
 <iframe src="https://fisherat.github.io/portfolio/assets/graphics/map_locdata_4_27_2.html" 
