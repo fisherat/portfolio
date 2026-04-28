@@ -1,0 +1,14 @@
+{
+  "name": "5a8f913d84b69323",
+  "main": "5a8f913d84b69323@1853.js",
+  "version": "1853.0.0",
+  "homepage": "https://observablehq.com/d/5a8f913d84b69323",
+  "author": {
+    "name": "Andrew Fisher",
+    "url": "https://observablehq.com/@andrew-fisher"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
