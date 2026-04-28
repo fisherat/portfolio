@@ -13,6 +13,18 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 ### Ongoing Coursework & Extracurricular Work Experience
 
+**CS-215 - Data Science -** Modeling of 2021 Wildfire Incident Locations via JavaScript
+
+<iframe width="100%" height="116.078125" frameborder="0"
+  src="https://observablehq.com/embed/5a8f913d84b69323@1853?cells=viewof+minSize">
+  </iframe>
+
+<iframe src="https://fisherat.github.io/portfolio/assets/graphics/Wildfire_Loc_Map_Inter.svg" 
+        width="100%" 
+        height="500px" 
+        frameborder="0">
+</iframe>
+
 **CS-215 - Data Science -** Modeling of Professor's location data using Plotly - Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall, hypothesis failed
   
 <iframe src="https://fisherat.github.io/portfolio/assets/graphics/map_locdata_4_27_2.html" 
@@ -31,7 +43,6 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
         height="500px" 
         frameborder="0">
 </iframe>
-
 
 > Wk12 - Initial analysis reveals a strong correlation between Fail/Drop rate (useful as a metric of difficulty) and Libretext unit/chapter ratio for each specialty, analysis of different specialties leaves much work to be done, as well as figuring out how to describe Biochemistry and Environmental chemistry within the same guidelines as their workflows remain largely different. More in-depth analysis is required to make sense of the currently confusing cluster system
 >
