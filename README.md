@@ -19,7 +19,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
   src="https://observablehq.com/embed/5a8f913d84b69323@1853?cells=viewof+minSize">
   </iframe>
 
-<iframe src="[image.svg](https://fisherat.github.io/portfolio/assets/graphics/Wildfire_Loc_Map_Inter.svg)" 
+<iframe src="https://fisherat.github.io/portfolio/assets/graphics/Wildfire_Loc_Map_Inter.svg" 
   width="100%"
   height="500px" 
   title="2021 Wildfire Incident Locations & Reported Causes" 
