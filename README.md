@@ -16,10 +16,10 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 **CS-215 - Data Science -** Modeling of 2021 Wildfire Incident Locations via JavaScript
 
 <iframe width="100%" height="116.078125" frameborder="0"
-  src="https://observablehq.com/embed/5a8f913d84b69323@1853?cells=viewof+minSize">
+  src=["https://observablehq.com/embed/5a8f913d84b69323@1853?cells=viewof+minSize"](https://observablehq.com/d/5a8f913d84b69323#minSize)>
   </iframe>
-
-<iframe src="https://fisherat.github.io/portfolio/assets/graphics/Wildfire_Loc_Map_Inter.svg" 
+https://observablehq.com/d/5a8f913d84b69323#cell-1833
+<iframe src="[https://fisherat.github.io/portfolio/assets/graphics/Wildfire_Loc_Map_Inter.svg](https://observablehq.com/d/5a8f913d84b69323#cell-1833)" 
   width="100%"
   height="500px" 
   title="2021 Wildfire Incident Locations & Reported Causes" 
