@@ -13,11 +13,12 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 ### Ongoing Coursework & Extracurricular Work Experience
 
-**CS-215 - Data Science -** Modeling of 2021 Wildfire Incident Locations via Observable, in js
+**CS-215 - Data Science -** [Modeling of 2021 Wildfire Incident Locations via Observable, built in Java](https://fisherat.github.io/portfolio/assets/graphics/index.html)
 
-[View Map](https://fisherat.github.io/portfolio/assets/graphics/index.html))
-
-**CS-215 - Data Science -** Modeling of Professor's location data using Plotly - Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall, hypothesis failed
+**CS-215 - Data Science -** Modeling of Relative Location Data using Plotly, calculated with Haversine
+- Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall @46.0728341,-118.3290384
+- Resulting %age was ~70% of timestamps within 3km
+- Hypothesis failed
   
 <iframe src="https://fisherat.github.io/portfolio/assets/graphics/map_locdata_4_27_3.html" 
         width="100%" 
@@ -25,7 +26,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
         frameborder="0">
 </iframe>
 
-  ![Pieplot of location data within & withut 3km of Whitman College's Olin Hall - @46.0728341,-118.3290384, distance(s) calculated w/ Haversine](assets/graphics/pieplot4_27.png)
+  ![Pieplot of location data within & without 3km of Whitman College's Olin Hall - @46.0728341,-118.3290384, distance(s) calculated w/ Haversine](assets/graphics/pieplot4_27.png)
 
 **CS-215 - Data Science -** Project Update Wk12
 - Chem Libretext Cluster Analysis of Bookshelves, an Analysis of inequity in advanced opensource chemical textbooks - Solo project
