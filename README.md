@@ -16,11 +16,13 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 **CS-215 - Data Science**
 
 - Final Project - Cluster & PCA Analysis of Chem Libretexts Bookshelves, an Analysis of Inequity in Opensource Chemical Textbooks
+  
 > <iframe src="https://fisherat.github.io/portfolio/assets/graphics/libretexts_clusters.html" width="100%" height="500px" frameborder="0"></iframe>
 
 - [Interactive Modeling of 2021 Wildfire Incident Locations, built in Observable Java](https://fisherat.github.io/portfolio/assets/graphics/index.html)
 
 - Modeling of Relative Location Data using Plotly, calculated with Haversine
+
 > Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall @46.0728341,-118.3290384
 > 
 > Resulting percentage was ~70% of timestamps within 3km, hypothesis failed
@@ -51,7 +53,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 - Summer research continued in Physical Chemistry Laboratory 
 - Accessible Solvent Effects on Spontaneous Diphenylalanine Nanostructure Formation for Undergraduates
 
-  <iframe src="FisheraPchemLabFinal.pdf" width="100%" height="600px"></iframe>
+  <iframe src="https://fisherat.github.io/portfolio/assets/graphics/FisheraPchemLabFinal.pdf" width="100%" height="600px"></iframe>
 
 ### Standing Certifications
 - Biosafety/Biosecurity - Biohazard Safety
