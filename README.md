@@ -13,67 +13,45 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 ### Ongoing Coursework & Extracurricular Work Experience
 
-**CS-215 - Data Science -** [Modeling of 2021 Wildfire Incident Locations via Observable, built in Java](https://fisherat.github.io/portfolio/assets/graphics/index.html)
+**CS-215 - Data Science**
 
-**CS-215 - Data Science -** Modeling of Relative Location Data using Plotly, calculated with Haversine
-- Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall @46.0728341,-118.3290384
-- Resulting %age was ~70% of timestamps within 3km
-- Hypothesis failed
-  
-<iframe src="https://fisherat.github.io/portfolio/assets/graphics/map_locdata_4_27_3.html" 
-        width="100%" 
-        height="500px" 
-        frameborder="0">
-</iframe>
+- Final Project - Cluster & PCA Analysis of Chem Libretexts Bookshelves, an Analysis of Inequity in Opensource Chemical Textbooks
+> <iframe src="https://fisherat.github.io/portfolio/assets/graphics/libretexts_clusters.html" width="100%" height="500px" frameborder="0"></iframe>
 
+- [Interactive Modeling of 2021 Wildfire Incident Locations, built in Observable Java](https://fisherat.github.io/portfolio/assets/graphics/index.html)
 
-  ![Pieplot of location data within & without 3km of Whitman College's Olin Hall - @46.0728341,-118.3290384, distance(s) calculated w/ Haversine](assets/graphics/pieplot4_27.png)
-
-**CS-215 - Data Science -** Project Update Wk12
-- Chem Libretext Cluster Analysis of Bookshelves, an Analysis of inequity in advanced opensource chemical textbooks - Solo project
-  
-<iframe src="https://fisherat.github.io/portfolio/assets/graphics/libretexts_clusters.html" 
-        width="100%" 
-        height="500px" 
-        frameborder="0">
-</iframe>
-
-
-> Wk12 - Initial analysis reveals a strong correlation between Fail/Drop rate (useful as a metric of difficulty) and Libretext unit/chapter ratio for each specialty, analysis of different specialties leaves much work to be done, as well as figuring out how to describe Biochemistry and Environmental chemistry within the same guidelines as their workflows remain largely different. More in-depth analysis is required to make sense of the currently confusing cluster system
+- Modeling of Relative Location Data using Plotly, calculated with Haversine
+> Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall @46.0728341,-118.3290384
+> 
+> Resulting percentage was ~70% of timestamps within 3km, hypothesis failed
+> 
+> <iframe src="https://fisherat.github.io/portfolio/assets/graphics/map_locdata_4_27_3.html" width="100%" height="500px" frameborder="0"></iframe>
 >
-> [Wk11 -](https://colab.research.google.com/drive/15WmrCllgff-Os6GJZz9t1raO7EmRRN27?usp=sharing)
->Webscraping the opensource textbooks available on Chem Libretext was successful using Beautiful Soup and further automated via python, possible expansion to transcribing online video textbooks?
->Datasets are useful for very superficial analysis of wordcount and figure counts, they do not account for succinctness/quality of explanations or differences in HTML syntax between different specialties/chapters/units.
-> Most of what I've learned so far is how to automate webscraping via python and nesting loops in order to expand dataframes to better organize the chapters.
->The greatest challege I forsee is Google Colab struggling to handle iterating through such large datasets, perhaps I could optimize this workflow using some other language? Remains to be seen if it's problematic.
->
-> Wk10: Project Goals
-> 
-> Q: Is there a distinct difference in the availability of information between the subcategories of Chemistry?
-> 
-> Q: Which specialties are underrepresented in online forums of information?
-> 
-> Q: How can we go about improving the availability of information for all interested in higher chemical education?
-> 
+>![Pieplot of location data within & without 3km of Whitman College's Olin Hall - @46.0728341,-118.3290384, distance(s) calculated w/ Haversine](assets/graphics/pieplot4_27.png)
 
 **CHEM-490 - Chemistry Senior Thesis**
 - Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes
 
 ### Recent Work Experience
 
-Research Assistant @ Whitman College - Computational Inorg. Biochemistry
+**Research Assistant @ Whitman College - Computational Inorg. Biochemistry**
+
 - Metal-Dependent Structural Comparisons of Acireductone Dioxygenases: A Computational Study
 
   ![Poster for ACS Spr. '26](/assets/graphics/ACS.jpeg)
 
-Research Assistant @ San Diego St. University - Bacterial Metabolomics
+**Research Assistant @ San Diego St. University - Bacterial Metabolomics**
+
 - Life Under Extremes: Melanin-Mediated Adaptations and Interactions in Arid Soil Microbial Communities
 
   ![Poster for DOE](/assets/graphics/DOE.jpeg)
 
-Research Assistant @ Whitman College - Physical Organic Chemistry
+**Research Assistant @ Whitman College - Physical Organic Chemistry**
+
 - Summer research continued in Physical Chemistry Laboratory 
 - Accessible Solvent Effects on Spontaneous Diphenylalanine Nanostructure Formation for Undergraduates
+
+  <iframe src="FisheraPchemLabFinal.pdf" width="100%" height="600px"></iframe>
 
 ### Standing Certifications
 - Biosafety/Biosecurity - Biohazard Safety
@@ -81,14 +59,14 @@ Research Assistant @ Whitman College - Physical Organic Chemistry
 - Biosafety/Biosecurity - Recombinant DNA
 
 ### Organizations
-National Interfraternity Council
+**National Interfraternity Council**
 - Hosted several substance abuse and sexual assault prevention workshops and presentations for Greek Life to audiences of over 100 students, faculty members and members of the local community.
 - Officially established a permanent Interfraternity Council scholarship program, expanding and facilitating the use of established resources such as Whitman’s “Brotherhood fund” to support incoming freshmen. 
 - Reconnected Whitman IFC with nationals, revising previous bylaws to reflect national standard operating procedures.
 - Organized and ran a number of successful fundraising and service events to give back to the community, both in Walla Walla and nationally through Panhellenic’s Circle of Sisterhood.
 - Led talks and efforts to align Greek organizations with the interests of the neighboring community to improve daily life and the reputability of our organizations on and around our houses.
 
-Phi Delta Theta
+**Phi Delta Theta**
 - Served as Philanthropy Chair, raising money for ALS research with the Live Like Lou foundation.
 - Served as Housing Manager, working as a facilities liaison and organizing house cleanup and maintenance.
 
