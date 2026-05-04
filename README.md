@@ -16,7 +16,15 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 **CS-215 - Data Science**
 
 - Final Project - Cluster & PCA Analysis of Chem Libretexts Bookshelves, an Analysis of Inequity in Opensource Chemical Textbooks
-  
+
+> Wk14 Rose - Bud - Thorn:
+>
+> Rose: Accomplished the webscraping, organization of data and the plotting of appropriate clusters on a 3D axis with Plotly.
+>
+> Bud: PCA analysis of unit length using some other metrics that might help clean up the graphical representation, perhaps abbreviate average length of chapters with the # of units using PCA?
+>
+> Thorn: Find a better, more nuanced metric of difficulty beyond mean/median ACS score for each overall specialty (perhaps fraction each specialty into more particular subspecialties, eg Phys-chem into Quantum & Thermo).
+> 
 > <iframe src="https://fisherat.github.io/portfolio/assets/graphics/libretexts_clusters.html" width="100%" height="500px" frameborder="0"></iframe>
 
 - [Interactive Modeling of 2021 Wildfire Incident Locations, built in Observable Java](https://fisherat.github.io/portfolio/assets/graphics/index.html)
