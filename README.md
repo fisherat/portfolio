@@ -29,7 +29,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 >
 > On communication, I intend to place a small blurb on the project's purpose and results in my Github portfolio alongside a link to an HTML page hosted out of my /graphics/assets directory. This will feature an abstract, followed by annotated code including the dataframe(s) info and head, a graphical representation of the PCA analysis, a lineplot of the cluster optimization, the 3D cluster plot and comparison, and lastly the conclusion(s) and bibliography. Given that my career interests lie within the science side of data science, I intend to write a largely simplified scientific paper, which can be interpreted into a slideshow to display to my classmates. 
 > 
-> <iframe src="https://fisherat.github.io/portfolio/assets/graphics/libretexts_clusters_wk14.html" width="100%" height="500px" frameborder="0"></iframe>
+> <iframe src="https://fisherat.github.io/portfolio/assets/graphics/chapter_hue.html" width="100%" height="500px" frameborder="0"></iframe>
 
 - [Interactive Modeling of 2021 Wildfire Incident Locations, built in Observable Java](https://fisherat.github.io/portfolio/assets/graphics/index.html)
 
