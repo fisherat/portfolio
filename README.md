@@ -17,6 +17,8 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 - Final Project - Cluster & PCA Analysis of Chem Libretexts Bookshelves, an Analysis of Inequity in Opensource Chemical Textbooks
 >
+>![Chapter Trends Line plot](/assets/graphics/chapter_trends_plot.png)
+>
 > <iframe src="https://fisherat.github.io/portfolio/assets/graphics/topographical_plot.html" width="100%" height="500px" frameborder="0"></iframe>
 
 - [Interactive Modeling of 2021 Wildfire Incident Locations, built in Observable Java](https://fisherat.github.io/portfolio/assets/graphics/index.html)
