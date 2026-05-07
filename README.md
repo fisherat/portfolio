@@ -16,24 +16,25 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 **CS-215 - Data Science**
 
 - Final Project - Cluster & PCA Analysis of Chem Libretexts Bookshelves, an Analysis of Inequity in Opensource Chemical Textbooks
->
->![Chapter Trends Line plot](/assets/graphics/chapter_trends_plot.png)
->
-> <iframe src="https://fisherat.github.io/portfolio/assets/graphics/topographical_plot.html" width="100%" height="500px" frameborder="0"></iframe>
+
+  ![Chapter Trends Line plot](/assets/graphics/chapter_trends_2.png)
+
+  <iframe src="https://fisherat.github.io/portfolio/assets/graphics/topographical_plot.html" width="100%" height="500px" frameborder="0"></iframe>
 
 - [Interactive Modeling of 2021 Wildfire Incident Locations, built in Observable Java](https://fisherat.github.io/portfolio/assets/graphics/index.html)
 
 - Modeling of Relative Location Data using Plotly, calculated with Haversine
 
-> Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall @46.0728341,-118.3290384
-> 
-> Resulting percentage was ~70% of timestamps within 3km, hypothesis failed
-> 
-> <iframe src="https://fisherat.github.io/portfolio/assets/graphics/map_locdata_4_27_4.html" width="100%" height="500px" frameborder="0"></iframe>
->
->![Pieplot of location data within & without 3km of Whitman College's Olin Hall - @46.0728341,-118.3290384, distance(s) calculated w/ Haversine](assets/graphics/pieplot4_27.png)
+  Hypothesized 90% of timestamped location data within 3km of Whitman College's Olin Hall @46.0728341,-118.3290384
+ 
+  Resulting percentage was ~70% of timestamps within 3km, hypothesis failed
+
+  <iframe src="https://fisherat.github.io/portfolio/assets/graphics/map_locdata_4_27_4.html" width="100%" height="500px" frameborder="0"></iframe>
+  
+  ![Pieplot of location data within & without 3km of Whitman College's Olin Hall - @46.0728341,-118.3290384, distance(s) calculated w/ Haversine](assets/graphics/pieplot4_27.png)
 
 **CHEM-490 - Chemistry Senior Thesis**
+
 - Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes
 
 ### Recent Work Experience
