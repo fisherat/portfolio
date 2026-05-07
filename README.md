@@ -16,20 +16,11 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 **CS-215 - Data Science**
 
 - Final Project - Cluster & PCA Analysis of Chem Libretexts Bookshelves, an Analysis of Inequity in Opensource Chemical Textbooks
-> Wk14 as [Rose - Bud - Thorn](https://www.colorado.edu/researchinnovation/rose-bud-thorn):
->
-> Rose: Accomplished the webscraping, organization of data and the plotting of appropriate clusters on a 3D axis with Plotly.
->
-> Bud: PCA analysis of unit length using some other metrics that might help clean up the graphical representation, perhaps abbreviate average length of chapters with the # of units using PCA?
->
-> Thorn: Find a better, more nuanced metric of difficulty beyond mean/median ACS score for each overall specialty (perhaps fraction each specialty into more particular subspecialties, eg Phys-chem into Quantum & Thermo).
-> It has also met my attention that equations are listed seperately to the body text of the unit (eg. the Schrodinger equation in Inorganic Chemistry is listed as an svg object in HTML) something I apparently missed and would be reasonable to equate to a figure in my dataset. 
->
-> Although I suppose the 3d cluster analysis would count as my "new technique" for the project, I'd argue that it's still 100% in the perview of our coursework and therefore I'd like to advance my Data Science skillset in other ways. Natural language processing (at the suggestion of Professor Wirfs-Brock) is a natural solution to the current thorn, analyzing the difficulty of the text to yield a score that can be aligned with ACS score via PCA for a more comprehensive description of difficulty. Although we've dealt with NLP in CS-167, I believe that I will need to revisit it to better understand it's parameters and limitations in documentation, perhaps opensource such as Stack Overflow (on-brand with the project).
->
-> On communication, I intend to place a small blurb on the project's purpose and results in my Github portfolio alongside a link to an HTML page hosted out of my /graphics/assets directory. This will feature an abstract, followed by annotated code including the dataframe(s) info and head, a graphical representation of the PCA analysis, a lineplot of the cluster optimization, the 3D cluster plot and comparison, and lastly the conclusion(s) and bibliography. Given that my career interests lie within the science side of data science, I intend to write a largely simplified scientific paper, which can be interpreted into a slideshow to display to my classmates. 
+> ![Plot of webscraped mean word counts and mean difficulty (PCA of UW Madison ACS exam scores and Natural Language Processing determinations of complexity](assets/graphics/chapter_trends_plot.png)
 > 
 > <iframe src="https://fisherat.github.io/portfolio/assets/graphics/chapter_hue.html" width="100%" height="500px" frameborder="0"></iframe>
+>
+> <iframe src="https://fisherat.github.io/portfolio/assets/graphics/topographical_plot.html" width="100%" height="500px" frameborder="0"></iframe>
 
 - [Interactive Modeling of 2021 Wildfire Incident Locations, built in Observable Java](https://fisherat.github.io/portfolio/assets/graphics/index.html)
 
