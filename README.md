@@ -42,7 +42,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 - Metal-Dependent Structural Comparisons of Acireductone Dioxygenases: A Computational Study
 
-  ![Poster for ACS Spr. '26](/assets/graphics/ACS.jpeg)
+  ![Poster for ACS Spr. '26](https://fisherat.github.io/portfolio/assets/graphics/ACS.jpeg)
 
 **Research Assistant @ San Diego St. University - Bacterial Metabolomics**
 
