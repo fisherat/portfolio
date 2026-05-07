@@ -16,9 +16,6 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 **CS-215 - Data Science**
 
 - Final Project - Cluster & PCA Analysis of Chem Libretexts Bookshelves, an Analysis of Inequity in Opensource Chemical Textbooks
-> ![Plot of webscraped mean word counts and mean difficulty (PCA of UW Madison ACS exam scores and Natural Language Processing determinations of complexity](assets/graphics/chapter_trends_plot.png)
-> 
-> <iframe src="https://fisherat.github.io/portfolio/assets/graphics/chapter_hue.html" width="100%" height="500px" frameborder="0"></iframe>
 >
 > <iframe src="https://fisherat.github.io/portfolio/assets/graphics/topographical_plot.html" width="100%" height="500px" frameborder="0"></iframe>
 
