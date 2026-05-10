@@ -15,7 +15,7 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 **CS-215 - Data Science**
 
-- Final Project - Cluster & PCA Analysis of Chem Libretexts Bookshelves, an Analysis of Inequity in Opensource Chemical Textbooks
+- [Final Project - Cluster & PCA Analysis of Chem Libretexts Bookshelves, an Analysis of Inequity in Opensource Chemical Textbooks](https://fisherat.github.io/CSFinalProjectSp26/)
 
   ![Chapter Trends Line plot](/assets/graphics/chapter_trends_2.png)
 
