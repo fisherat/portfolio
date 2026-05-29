@@ -23,18 +23,14 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 **Visiting Research Assistant @ San Diego St. University - Bacterial Metabolomics (Jun 2025 - Aug 2025)**
 
-- Life Under Extremes: Melanin-Mediated Adaptations and Interactions in Arid Soil Microbial Communities
-
   ![Poster for DOE](/assets/graphics/DOE.jpeg)
 
 **Undergradate Research Assistant @ Whitman College - Physical Organic Chemistry (Jun 2024 - May 2025)**
 
-- Undergraduate summer research continued in Physical Chemistry Laboratory 
-- Accessible Solvent Effects on Spontaneous Diphenylalanine Nanostructure Formation for Undergraduates
-
   <iframe src="https://fisherat.github.io/portfolio/assets/graphics/FisheraPchemLabFinal.pdf" width="100%" height="600px"></iframe>
 
 ### Standing Certifications
+
 - Biosafety/Biosecurity - Biohazard Safety
 - Laboratory Chemical Safety
 - Biosafety/Biosecurity - Recombinant DNA
