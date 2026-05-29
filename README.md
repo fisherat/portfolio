@@ -11,24 +11,26 @@ B.A. of Chemistry - Whitman College (2022-2026)
 
 CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
-### Recent Work Experience
+### Current and Recent Work Experience
 
-**Research Assistant @ Whitman College - Computational Inorg. Biochemistry**
+**Visiting Research Assistant @ Pacific Northwest National Laboratory - Bioinformatics and Bacterial Metabolomics (May 2026 - Aug 2026)**
+
+**Senior Research Assistant @ Whitman College - Computational Inorg. Biochemistry (Sep 2025 - May 2026)**
 
   <iframe src="https://fisherat.github.io/portfolio/assets/graphics/fishera-thesis2026-fd-Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes.pdf" width="100%" height="600px"></iframe>
 
 
   ![Poster for ACS Spr. '26](https://fisherat.github.io/portfolio/assets/graphics/ACS.jpeg)
 
-**Research Assistant @ San Diego St. University - Bacterial Metabolomics**
+**Visiting Research Assistant @ San Diego St. University - Bacterial Metabolomics (Jun 2025 - Aug 2025)**
 
 - Life Under Extremes: Melanin-Mediated Adaptations and Interactions in Arid Soil Microbial Communities
 
   ![Poster for DOE](/assets/graphics/DOE.jpeg)
 
-**Research Assistant @ Whitman College - Physical Organic Chemistry**
+**Undergradate Research Assistant @ Whitman College - Physical Organic Chemistry (Jun 2024 - May 2025)**
 
-- Summer research continued in Physical Chemistry Laboratory 
+- Undergraduate summer research continued in Physical Chemistry Laboratory 
 - Accessible Solvent Effects on Spontaneous Diphenylalanine Nanostructure Formation for Undergraduates
 
   <iframe src="https://fisherat.github.io/portfolio/assets/graphics/FisheraPchemLabFinal.pdf" width="100%" height="600px"></iframe>
