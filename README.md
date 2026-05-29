@@ -17,8 +17,9 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
 **Senior Research Assistant @ Whitman College - Computational Inorg. Biochemistry (Sep 2025 - May 2026)**
 
-  <iframe src="https://fisherat.github.io/portfolio/assets/graphics/fishera-thesis2026-fd-Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes.pdf" width="100%" height="600px"></iframe>
+  <iframe src="https://fisherat.github.io/portfolio/assets/graphics/fishera-thesis2026-fd-Computational Analysis of Metal-Dependent Structural Variations of Acireductone Dioxygenase Enzymes.pdf" width="100%" height="800px"></iframe>
 
+<iframe src="ACS.jpeg" width="100%" height="800px"></iframe>
 
   ![Poster for ACS Spr. '26](https://fisherat.github.io/portfolio/assets/graphics/ACS.jpeg)
 
