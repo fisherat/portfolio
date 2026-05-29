@@ -2,4 +2,5 @@ title: Andrew Fisher
 logo: assets/graphics/headshot.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-hydejack
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-hydejack
