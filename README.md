@@ -29,11 +29,13 @@ CA Gold Seal Merit Diploma - Leland High School (2018-2022)
 
   <iframe src="https://fisherat.github.io/portfolio/assets/graphics/FisheraPchemLabFinal.pdf" width="100%" height="600px"></iframe>
 
+
 ### Standing Certifications
 
 - Biosafety/Biosecurity - Biohazard Safety
 - Laboratory Chemical Safety
 - Biosafety/Biosecurity - Recombinant DNA
+
 
 ### Example Coursework & Extracurricular Work Experience
 
